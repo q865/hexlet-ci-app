@@ -34,3 +34,4 @@ make lint
 This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app).
 
 See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
+[![step2](https://github.com/q865/hexlet-ci-app/actions/workflows/test.yml/badge.svg)](https://github.com/q865/hexlet-ci-app/actions/workflows/test.yml)
